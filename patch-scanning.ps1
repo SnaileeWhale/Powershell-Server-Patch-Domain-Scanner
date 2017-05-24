@@ -101,7 +101,7 @@ foreach ($name in $names)
                                     {
 
                                     
-                                    $PatchedOK = Write-Host "`t`t$Patched" -ForegroundColor Green
+                                    $PatchedOK = Write-Host "`t`tPatched" -ForegroundColor Green
 
                                     $Patched = "Yes"
 
