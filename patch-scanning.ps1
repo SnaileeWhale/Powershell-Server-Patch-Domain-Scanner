@@ -12,7 +12,7 @@ Patch Scanning Utility
 
 $OutputArray = @()
 $filelocation = "C:\Temp\Patch-Report.csv"
-$names = Get-content C:\temp\computers.txt # breakout text array for testing 
+$names = Get-content E:\computers.txt # breakout text array for testing 
 
 
 do
